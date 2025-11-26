@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "jacquin@bolos.com",
+      "senha": "1234"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Vela Perfumada Maçã",
+      "categorias": ["Outono", "Perfumadas"],
+      "imagens": ["card_1.png"],
+      "id": "v01",
+      "preco": 89.00,
+      "peso": null
+    },
+    {
+      "nome": "Vela Perfumada Abóbora",
+      "categorias": ["Outono", "Perfumadas"],
+      "imagens": ["card_2.png"],
+      "id": "v02",
+      "preco": 89.00,
+      "peso": null
+    },
+    {
+      "nome": "Vela Perfumada Canela",
+      "categorias": ["Outono", "Perfumadas"],
+      "imagens": ["card_3.png"],
+      "id": "v03",
+      "preco": 89.00,
+      "peso": null
+    },
+    {
+      "nome": "Vela Perfumada Marshmallow",
+      "categorias": ["Outono", "Perfumadas"],
+      "imagens": ["card_4.png"],
+      "id": "v04",
+      "preco": 89.00,
+      "peso": null
+    }
+  ]
+}
